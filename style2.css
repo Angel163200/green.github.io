@@ -1,0 +1,23 @@
+body{
+  background-image: url('images/sells.jpg');
+  background-size: 100% 100%;
+ }
+ .new{
+ border:white 1px;
+ width:20%;
+ margin:100px auto;
+ background:white;
+ padding:80;
+ opacity: 0.75;
+ text-align: left;
+ }
+ .reg{
+	border: solid black 1px;
+	width:20%;
+	margin:100px auto;
+	background:white;
+	padding:80;
+	opacity: 0.95;
+	font-weight:bold;
+	text-align: center-left;
+ }

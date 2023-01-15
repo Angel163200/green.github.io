@@ -1,0 +1,56 @@
+body{
+}
+.navbar {
+  width: 100%;
+  padding: 80px;
+  
+}
+
+.navbar a {
+  float: left;
+  padding: 25px;
+  color:black; 
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+
+  .slideshow {
+  max-width: 800px;
+  position: relative;
+  margin: auto;
+}
+.grid-container {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 300px 300px 300px 300px ;
+  grid-template-rows: 320px 320px;
+  background-color: #00bfff;
+  padding: 20px;
+  margin:1px 120px;
+}
+.grid-container 
+ div {
+  background-color: white;
+  text-align: center;
+  padding: 30px 0;
+  font-size: 30px;
+}
+.sbg {
+  background-color: #ff9999;
+  background-position: left top;
+  background-repeat:  repeat;
+  padding: 20px;
+}
+.a{
+	text-decoration:none;
+    display:block;
+}
+	
+label.l{
+font-size:15px;
+display:block;
+}
