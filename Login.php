@@ -2,7 +2,6 @@
 $error="";
 session_start();
 ?>
-
 <html>
     
 <head>
