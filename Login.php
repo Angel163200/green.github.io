@@ -120,8 +120,6 @@ echo $error;
 	
 </div>
         
-</form>
-
-    
+</form>  
 </body>
 </html>
