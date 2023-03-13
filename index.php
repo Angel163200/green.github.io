@@ -19,8 +19,8 @@ session_start();
   <a class="active" href="#"> Home</a>
   <a href="veg.php"> Vegetable</a>
   <a href="frui.php" >Fruits</a>
-  <a href="about.html" >About us</a>
-  <a href="sell.php" >Sell Your Product</a>
+  <a href="about.html" >About Us</a>
+  <a href="sell.php" >Sell Your Product Here</a>
   <a href="Logout.php" >Logout</a>
   <div class="w3-dropdown-hover w3-right">
 			<button class="w3-button ">My Account</button>
